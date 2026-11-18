@@ -1,21 +1,36 @@
-MIT License
+Pressure Gauge — Steam Art Studio
+Copyright (c) 2026 OddBoxCode. All rights reserved.
 
-Copyright (c) 2026 HookerHeels
+FREEWARE LICENCE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Use. You may download, install and use Pressure Gauge free of charge, for personal or commercial
+   purposes, on any number of computers.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Sharing. You may share unmodified copies of the official installer or release files, free of
+   charge, provided this licence and all copyright notices stay with them. Please link to the
+   official releases page (https://github.com/HookerHeels/pressuregauge/releases) where you can.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Restrictions. Except where the law allows it regardless of this licence, you may not:
+   a. sell, rent, or charge for Pressure Gauge, or include it in a paid product or bundle;
+   b. modify, decompile, or create derivative works from Pressure Gauge, or distribute modified copies;
+   c. remove or alter copyright notices, or present Pressure Gauge as someone else's work.
+
+4. Your content. Artwork, settings and other files you create or choose with Pressure Gauge are yours.
+   Artwork downloaded from SteamGridDB or Steam remains the property of its owners and is subject to
+   their terms.
+
+5. Third-party components. Pressure Gauge includes Neutralinojs (MIT License) and fonts licensed under
+   the SIL Open Font License 1.1. Those components remain under their own licences, which are listed in
+   LICENSES.txt inside the app, and nothing in this licence restricts your rights under them.
+
+6. No warranty. Pressure Gauge is provided "as is", without warranty of any kind, express or implied,
+   including fitness for a particular purpose. It changes files in your Steam folder when you press
+   Apply; keep backups of anything you care about.
+
+7. Limitation of liability. To the extent the law allows, OddBoxCode is not liable for any damages or
+   losses arising from the use of, or inability to use, Pressure Gauge.
+
+8. Not affiliated. Pressure Gauge is not affiliated with or endorsed by Valve Corporation, Steam or
+   SteamGridDB. All trademarks belong to their owners.
+
+Contact: oddboxcode@gmail.com
